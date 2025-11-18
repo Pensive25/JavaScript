@@ -1,0 +1,55 @@
+
+  button {
+    border-radius: 8px;
+    padding: 12px;   
+    width: 127px;
+    height: 40px;
+    font-size: 16px;
+    margin: 7px;
+    cursor: pointer;
+    border: none;
+    transition: all 0.3s ease;
+}
+
+button:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+#navajowhite button {
+    color: #333;
+}
+
+#maroon button {
+    color: white;
+}
+
+#skyblue button {
+    color: #333;
+}
+
+#random button {
+    color: white;
+}
+ 
+ 
+ 
+ #navajowhite{
+    background-color:navajowhite;
+    
+ }
+
+ #maroon{
+    background-color:maroon;
+    
+ }
+
+ #skyblue{
+    background-color:skyblue;
+    
+ }
+
+ #random{
+    background-color:purple;
+    
+ }  
