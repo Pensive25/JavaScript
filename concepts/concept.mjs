@@ -13,7 +13,10 @@
 // // arr1[2] = true;
 // // arr1[0] = "nis";
 
-
+// // console.log(arr1[0]);
+// // console.log(arr1[1]);
+// // console.log(arr1[2]);
+// // console.log(arr1[3]);
 
 // // console.log(arr1);
 // // console.log(`length is ${arr1.length}`);
